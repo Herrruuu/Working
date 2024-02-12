@@ -1,0 +1,3 @@
+Git Commit will confirm our changes and takes a snapshot of the current version of our code. By confirm and commiting our code
+we will be able to know which version and which we'll go to by exhibiting a message in our files. In other words, this is a checkpoint 
+for our work.
