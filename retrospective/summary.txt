@@ -1,0 +1,21 @@
+To resolve the conflict merging error, you will type, "git pull", 
+as it mentions in the terminal. Pulling out the files will then 
+proceed you to the screeen while you will be declaring which file
+you will want to push to the direct repository. By cilcking on one
+of the files and exiting out of the "task" bar, visional studio 
+code will then upload and fix the merging conflict to your 
+direct repository. 
+
+As for the three changes that I have made in part C, I made an 
+update to every one of them to keep up the updates. When it comes 
+to the changes, I will follow these three steps in order to push 
+the files into the direct "working" repository, git add, git commit,
+and git push. By typing in git add, I will be able to change to 
+one or all of my files which saves the current screenshot of one or
+all the files. By then, you will git commit your files to add a message
+before pushing the files, this gives the readers to understand 
+your thinking process and what changes you have made within these files. 
+Finally, you have git push. By pushing these files, you will then update
+your repository with the files you're currently working on as a placeholder
+or a checkpoint to your projects. These are the changes I have made 
+to the files from part c to my direct working repsitory. 
